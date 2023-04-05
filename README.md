@@ -42,5 +42,5 @@ Now, the static web application can be accessed from the internet with the help 
 
 ![image](https://user-images.githubusercontent.com/77397177/230162333-51472c81-e587-44ce-a5e8-460f21e9d4d8.png)
 
-
-The future scope of this deployment can be implemented with AWS Route53 Domain Name Systems and will be application up and running in AWS cloud.
+# Future Scope
+The future scope of this deployment can be implemented using ci/cd tools and also enhanced using containerization tools and container orchestration tools and also implementing using AWS Route53 Domain Name Systems and the application will be up and running in AWS cloud.
