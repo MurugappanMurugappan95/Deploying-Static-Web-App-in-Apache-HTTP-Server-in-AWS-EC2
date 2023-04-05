@@ -1,7 +1,7 @@
-# Deploying-Static-Web-App-in-AWS-EC2
+# Deploying-Static-Web-App-in-Apache-HTTP-Server-AWS-EC2
 Deploying the static web application in AWS EC2 instance (running in IP address 3.145.49.222 and this can be down anytime)
 
-Follow the below commands in order to run the static web app in apahce server in AWS EC2
+Follow the below commands in order to run the static web app in apahce http server in AWS EC2
 
 # sudo su
 Run above command to Switch to the root user
